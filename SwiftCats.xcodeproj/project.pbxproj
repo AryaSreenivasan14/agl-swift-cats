@@ -141,6 +141,7 @@
 		4287120F244C894A00541C9C /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				B882EFA62436AC2F00421A3C /* Assets.xcassets */,
 			);
 			path = Images;
 			sourceTree = "<group>";
@@ -203,7 +204,6 @@
 			children = (
 				42871209244C88D700541C9C /* Resources */,
 				42871208244C88CB00541C9C /* Classes */,
-				B882EFA62436AC2F00421A3C /* Assets.xcassets */,
 				B882EFAB2436AC2F00421A3C /* Info.plist */,
 			);
 			path = SwiftCats;
