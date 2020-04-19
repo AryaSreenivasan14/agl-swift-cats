@@ -12,8 +12,16 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        NetworkService().getOwners { (owners) in
-            print(owners)
+        fetchDataFromServer()
+    }
+    
+    //MARK:- Web Services
+    func fetchDataFromServer() {
+        NetworkService().getOwners { (ownersArrayResponse, error) in
+            if (error != nil) {
+                return
+            }
+            print(ownersArrayResponse)
         }
     }
 }

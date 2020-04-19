@@ -385,13 +385,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = Y54BWCB53H;
+				DEVELOPMENT_TEAM = FPAH79S6CV;
 				INFOPLIST_FILE = SwiftCats/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = au.com.agl.SwiftCats;
+				PRODUCT_BUNDLE_IDENTIFIER = com.aryasreenivasan.SwiftCats;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -403,13 +403,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = Y54BWCB53H;
+				DEVELOPMENT_TEAM = FPAH79S6CV;
 				INFOPLIST_FILE = SwiftCats/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = au.com.agl.SwiftCats;
+				PRODUCT_BUNDLE_IDENTIFIER = com.aryasreenivasan.SwiftCats;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
